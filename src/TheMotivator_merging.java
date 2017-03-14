@@ -8,7 +8,7 @@ public class TheMotivator_merging {
 			else if (score > 60)
 				System.out.println("That's a good attempt");
 			else
-				System.out.println("Well, what can I say?");
+				System.out.println("Well, what can I say? Nice try.");
 		}
 		public static void main(String[] args) {
 			TheMotivator_merging tm = new TheMotivator_merging();
